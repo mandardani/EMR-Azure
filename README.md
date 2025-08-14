@@ -90,5 +90,5 @@ We will design a series of Azure Data Factory (ADF) pipelines to orchestrate the
 1.  Move Data from Database instances to Bronze layer (Part 1).
 2.  Retrieve NPI & ICD Data from Web APIs.
 3.  Move & Clean Data from Bronze to Silver.
+4.  Move Data from Silver to Gold.
 
-Move Data from Silver to Gold.
